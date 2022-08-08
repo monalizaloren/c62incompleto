@@ -1,0 +1,28 @@
+????
+{
+    text-align: center;
+}
+.container{
+  background-color:???;  
+}
+#app {
+    background-color: ???;
+}
+
+#myCarousel
+{
+    background-color:????;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: ???px;
+    color : ???;
+    font-size: ???px;
+}
